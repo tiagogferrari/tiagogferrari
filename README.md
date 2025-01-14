@@ -4,7 +4,7 @@
 [![Gmail](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGCSpxCTPCnvGnmrbzPVRsBptHGtmKtGrNxFvmqhWgPGsxnSVkLjqNDnXmVwXcGDWrg)
 [![Instagram](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago_gferrari_/?hl=pt-br)
 
-<div style="display: flex; align-items: flex-start; gap: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=tiagogferrari&show_icons=true&theme=dracula" alt="Ferrari's GitHub stats" style="height: 200px; width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" style="height: 200px; width: 300px;">
 </div>
